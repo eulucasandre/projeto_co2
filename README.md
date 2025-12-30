@@ -92,3 +92,4 @@ projeto_co2br/
 ├── notebooks/     # Notebook principal com a análise
 ├── results/       # Gráficos e outputs
 └── README.md
+
