@@ -88,7 +88,7 @@ Essas fontes refletem dados reais, complexos e imperfeitos, exigindo tratamento 
 ## 📂 Estrutura do Projeto
 
 projeto_co2br/
-├── data/          # Dados brutos (SEEG e IBGE)
+├── data/          # Dados brutos (SEEG e IBGE) - OBS: não consegui fazer o upload da planilha Excel da SEEG e nem comprimi-la por ter um tamanho acima do permitido (em breve, alterações dessa fonte dado)
 ├── notebooks/     # Notebook principal com a análise
 ├── results/       # Gráficos e outputs
 └── README.md
